@@ -1,3 +1,3 @@
-# DSGA-1011-NLP
+# NLP from Scratch
 
-This repository includes course projects from NYU DS-GA 1011 Natural Language Processing. The topics range from language modeling, transfer learning and BERT, neural conversation modeling and machine reading.
+This repository contains projects on language modeling, transfer learning and BERT, neural conversation modeling and machine reading.
